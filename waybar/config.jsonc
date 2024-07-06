@@ -35,6 +35,7 @@
     "all-outputs": true,
     "warp-on-scroll": false,
     "format": "{name}",
+    "show-special": true,
   },
   "keyboard-state": {
     "numlock": true,
